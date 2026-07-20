@@ -280,6 +280,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/m41vt2zt", "https://www.digikey.co.uk/short/m41vt2zt"],
 ["MPN = K104K15X7RF53L2 "],
 ["Mouser_URI = https://mou.sr/43YUXGF", "https://mou.sr/43YUXGF"],
+["Footprint = Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = K104K15X7RF53L2"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -297,6 +301,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/m41vt2zt", "https://www.digikey.co.uk/short/m41vt2zt"],
 ["MPN = K104K15X7RF53L2 "],
 ["Mouser_URI = https://mou.sr/43YUXGF", "https://mou.sr/43YUXGF"],
+["Footprint = Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = K104K15X7RF53L2"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -314,6 +322,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/m41vt2zt", "https://www.digikey.co.uk/short/m41vt2zt"],
 ["MPN = K104K15X7RF53L2 "],
 ["Mouser_URI = https://mou.sr/43YUXGF", "https://mou.sr/43YUXGF"],
+["Footprint = Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = K104K15X7RF53L2"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -331,6 +343,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/m41vt2zt", "https://www.digikey.co.uk/short/m41vt2zt"],
 ["MPN = K104K15X7RF53L2 "],
 ["Mouser_URI = https://mou.sr/43YUXGF", "https://mou.sr/43YUXGF"],
+["Footprint = Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = K104K15X7RF53L2"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -346,6 +362,9 @@ endobj
 ["Footprint = PinHeader_1x03_P2.54mm_Vertical"],
 ["Description = Jumper, 3-pole, pins 1+2 closed/bridged"],
 ["KiLib_Generator = connector/pin_header_socket"],
+["Footprint = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"],
+["desc = Jumper, 3-pole, pins 1+2 closed/bridged"],
+["part = Jumper_3_Bridged12"],
 ]\);) >>
 >>
 endobj
@@ -361,6 +380,9 @@ endobj
 ["Footprint = PinHeader_1x03_P2.54mm_Vertical"],
 ["Description = Jumper, 3-pole, pins 1+2 closed/bridged"],
 ["KiLib_Generator = connector/pin_header_socket"],
+["Footprint = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"],
+["desc = Jumper, 3-pole, pins 1+2 closed/bridged"],
+["part = Jumper_3_Bridged12"],
 ]\);) >>
 >>
 endobj
@@ -376,6 +398,9 @@ endobj
 ["Footprint = PinHeader_1x03_P2.54mm_Vertical"],
 ["Description = Jumper, 3-pole, pins 1+2 closed/bridged"],
 ["KiLib_Generator = connector/pin_header_socket"],
+["Footprint = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"],
+["desc = Jumper, 3-pole, pins 1+2 closed/bridged"],
+["part = Jumper_3_Bridged12"],
 ]\);) >>
 >>
 endobj
@@ -391,6 +416,9 @@ endobj
 ["Footprint = PinHeader_1x03_P2.54mm_Vertical"],
 ["Description = Jumper, 3-pole, pins 1+2 closed/bridged"],
 ["KiLib_Generator = connector/pin_header_socket"],
+["Footprint = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"],
+["desc = Jumper, 3-pole, pins 1+2 closed/bridged"],
+["part = Jumper_3_Bridged12"],
 ]\);) >>
 >>
 endobj
@@ -409,6 +437,10 @@ endobj
 ["KiLib_Generator = https://mou.sr/4eAf1Fb", "https://mou.sr/4eAf1Fb"],
 ["MPN = CD74HCT138E"],
 ["Digikey_URI = https://www.digikey.co.uk/short/23hw922m", "https://www.digikey.co.uk/short/23hw922m"],
+["Footprint = Package_DIP:DIP-16_W7.62mm_Socket"],
+["desc = Decoder 3 to 8 active low outputs"],
+["manf# = CD74HCT138E"],
+["part = 74LS138"],
 ]\);) >>
 >>
 endobj
@@ -427,6 +459,10 @@ endobj
 ["KiLib_Generator = https://mou.sr/4eAf1Fb", "https://mou.sr/4eAf1Fb"],
 ["MPN = CD74HCT138E"],
 ["Digikey_URI = https://www.digikey.co.uk/short/23hw922m", "https://www.digikey.co.uk/short/23hw922m"],
+["Footprint = Package_DIP:DIP-16_W7.62mm_Socket"],
+["desc = Decoder 3 to 8 active low outputs"],
+["manf# = CD74HCT138E"],
+["part = 74LS138"],
 ]\);) >>
 >>
 endobj
@@ -445,6 +481,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/3n8mn9t4", "https://www.digikey.co.uk/short/3n8mn9t4"],
 ["MPN = CD74HCT00E"],
 ["Mouser_URI = https://mou.sr/4v1Zu6V", "https://mou.sr/4v1Zu6V"],
+["Footprint = Package_DIP:DIP-14_W7.62mm_Socket"],
+["desc = quad 2-input NAND gate"],
+["manf# = CD74HCT00E"],
+["part = 74HCT00"],
 ]\);) >>
 >>
 endobj
@@ -461,6 +501,9 @@ endobj
 ["Datasheet = http://www.ym2149.com/ym2149.pdf", "http://www.ym2149.com/ym2149.pdf"],
 ["Description = Software-Controlled Sound Generator, DIP-40"],
 ["KiLib_Generator = package/DIP/legacy"],
+["Footprint = Package_DIP:DIP-40_W15.24mm_Socket"],
+["desc = Software-Controlled Sound Generator, DIP-40"],
+["part = YM2149"],
 ]\);) >>
 >>
 endobj
@@ -476,6 +519,9 @@ endobj
 ["Footprint = PinHeader_2x09_P2.54mm_Vertical"],
 ["Description = Generic connector, double row, 02x09, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
 ["KiLib_Generator = connector/pin_header_socket"],
+["Footprint = Connector_PinHeader_2.54mm:PinHeader_2x09_P2.54mm_Vertical"],
+["desc = Generic connector, double row, 02x09, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+["part = Conn_02x09_Odd_Even"],
 ]\);) >>
 >>
 endobj
@@ -491,6 +537,9 @@ endobj
 ["Footprint = PinHeader_1x02_P2.54mm_Vertical"],
 ["Description = Jumper, 2-pole, closed/bridged"],
 ["KiLib_Generator = connector/pin_header_socket"],
+["Footprint = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"],
+["desc = Jumper, 2-pole, closed/bridged"],
+["part = Jumper_2_Bridged"],
 ]\);) >>
 >>
 endobj
@@ -506,6 +555,9 @@ endobj
 ["Footprint = MountingHole_3.2mm_M3"],
 ["Description = Mounting Hole without connection"],
 ["KiLib_Generator = mounting_hardware/mounting_hole"],
+["Footprint = MountingHole:MountingHole_3.2mm_M3"],
+["desc = Mounting Hole without connection"],
+["part = MountingHole"],
 ]\);) >>
 >>
 endobj
@@ -520,6 +572,9 @@ endobj
 ["Value = RC2014 BUS"],
 ["Footprint = PinHeader_1x39_P2.54mm_Vertical"],
 ["Description = Generic connector, single row, 01x39, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+["Footprint = rc2014:PinHeader_1x39_P2.54mm_Vertical"],
+["desc = Generic connector, single row, 01x39, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+["part = Conn_01x39"],
 ]\);) >>
 >>
 endobj
@@ -536,6 +591,10 @@ endobj
 ["Description = Audio Jack, 3 Poles \\u0028Stereo / TRS\\u0029, Switched TR Poles \\u0028Normalling\\u0029"],
 ["Digikey_URI = https://www.digikey.co.uk/short/5qzpw41n", "https://www.digikey.co.uk/short/5qzpw41n"],
 ["MPN = SJ1-3523N"],
+["Footprint = electrified:Headphone_Jack_3.5mm_5_pin"],
+["desc = Audio Jack, 3 Poles \\u0028Stereo / TRS\\u0029, Switched TR Poles \\u0028Normalling\\u0029"],
+["manf# = SJ1-3523N"],
+["part = AudioJack3_SwitchTR"],
 ]\);) >>
 >>
 endobj
@@ -556,6 +615,10 @@ endobj
 ["Sim.Pins = 1=r0 2=wiper 3=r1"],
 ["MPN = 3386X-1-103TLF"],
 ["Digikey_URI = https://www.digikey.co.uk/short/007f5b23", "https://www.digikey.co.uk/short/007f5b23"],
+["Footprint = electrified:Potentiometer_Bourns_3386X_Horizontal"],
+["desc = Trim-potentiometer"],
+["manf# = 3386X-1-103TLF"],
+["part = R_Potentiometer_Trim"],
 ]\);) >>
 >>
 endobj
@@ -573,6 +636,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/9qrv3t9n", "https://www.digikey.co.uk/short/9qrv3t9n"],
 ["MPN = ECE-A0JKA470 "],
 ["Mouser_URI = https://mou.sr/3R5E1vb", "https://mou.sr/3R5E1vb"],
+["Footprint = Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"],
+["desc = Polarized capacitor, small symbol"],
+["manf# = ECE-A0JKA470"],
+["part = C_Polarized_Small"],
 ]\);) >>
 >>
 endobj
@@ -591,6 +658,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/9hwnpw15", "https://www.digikey.co.uk/short/9hwnpw15"],
 ["MPN = CD74HCU04E"],
 ["Mouser_URI = https://mou.sr/43o4BCn", "https://mou.sr/43o4BCn"],
+["Footprint = Package_DIP:DIP-14_W7.62mm_Socket"],
+["desc = Hex Inverter"],
+["manf# = CD74HCU04E"],
+["part = 74HC04"],
 ]\);) >>
 >>
 endobj
@@ -609,6 +680,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/r30tftfb", "https://www.digikey.co.uk/short/r30tftfb"],
 ["MPN = MCP6022-I/P"],
 ["Mouser_URI = https://mou.sr/3YuzqTg", "https://mou.sr/3YuzqTg"],
+["Footprint = Package_DIP:DIP-8_W7.62mm_Socket"],
+["desc = Dual Operational Amplifiers, Rail-to-Rail Input/Output, DIP-8/SOIC-8/TSSOP-8"],
+["manf# = MCP6022-I/P"],
+["part = MCP6022"],
 ]\);) >>
 >>
 endobj
@@ -623,6 +698,7 @@ endobj
 ["Value = LayerMarker_4_6.35x2.54mm_TextH1mm_P1.27mm"],
 ["Footprint = LayerMarker_4_6.35x2.54mm_TextH1mm_P1.27mm"],
 ["KiLib_Generator = layer_maker"],
+["Footprint = Symbol:LayerMarker_4_6.35x2.54mm_TextH1mm_P1.27mm"],
 ]\);) >>
 >>
 endobj
@@ -639,6 +715,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/5h79b53t", "https://www.digikey.co.uk/short/5h79b53t"],
 ["MPN = MFR-25FTE52-33K"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-33K"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -655,6 +735,10 @@ endobj
 ["Description = Resistor"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/305qt5br", "https://www.digikey.co.uk/short/305qt5br"],
 ["MPN = MFR-25FTE52-68R"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor"],
+["manf# = MFR-25FTE52-68R"],
+["part = R"],
 ]\);) >>
 >>
 endobj
@@ -671,6 +755,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/5h79b53t", "https://www.digikey.co.uk/short/5h79b53t"],
 ["MPN = MFR-25FTE52-33K"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-33K"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -687,6 +775,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/tzw0n79r", "https://www.digikey.co.uk/short/tzw0n79r"],
 ["MPN = MFR-25FRF52-39K"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FRF52-39K"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -703,6 +795,10 @@ endobj
 ["Description = Unpolarized capacitor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/723948m3", "https://www.digikey.co.uk/short/723948m3"],
 ["MPN = ESS106M025AB2AA"],
+["Footprint = Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = ESS106M025AB2AA"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -719,6 +815,10 @@ endobj
 ["Description = Unpolarized capacitor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/50mzfpf4", "https://www.digikey.co.uk/short/50mzfpf4"],
 ["MPN = C315C330K2G5TA"],
+["Footprint = Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = C315C330K2G5TA"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -735,6 +835,10 @@ endobj
 ["Description = Resistor"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/305qt5br", "https://www.digikey.co.uk/short/305qt5br"],
 ["MPN = MFR-25FTE52-68R"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor"],
+["manf# = MFR-25FTE52-68R"],
+["part = R"],
 ]\);) >>
 >>
 endobj
@@ -751,6 +855,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/5h79b53t", "https://www.digikey.co.uk/short/5h79b53t"],
 ["MPN = MFR-25FTE52-33K"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-33K"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -768,6 +876,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/m41vt2zt", "https://www.digikey.co.uk/short/m41vt2zt"],
 ["MPN = K104K15X7RF53L2 "],
 ["Mouser_URI = https://mou.sr/43YUXGF", "https://mou.sr/43YUXGF"],
+["Footprint = Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = K104K15X7RF53L2"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -784,6 +896,10 @@ endobj
 ["Description = Unpolarized capacitor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/v77dw2vb", "https://www.digikey.co.uk/short/v77dw2vb"],
 ["MPN = 105BPS100M"],
+["Footprint = Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = 105BPS100M"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -800,6 +916,10 @@ endobj
 ["Description = Resistor"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/z8zjpvdp", "https://www.digikey.co.uk/short/z8zjpvdp"],
 ["MPN = MFR-25FTE52-1M"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor"],
+["manf# = MFR-25FTE52-1M"],
+["part = R"],
 ]\);) >>
 >>
 endobj
@@ -816,6 +936,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/8r4tbmqt", "https://www.digikey.co.uk/short/8r4tbmqt"],
 ["MPN = MFR-25FTE52-8K2"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-8K2"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -831,6 +955,9 @@ endobj
 ["Footprint = PinHeader_2x09_P2.54mm_Vertical"],
 ["Description = Generic connector, double row, 02x09, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
 ["KiLib_Generator = connector/pin_header_socket"],
+["Footprint = Connector_PinHeader_2.54mm:PinHeader_2x09_P2.54mm_Vertical"],
+["desc = Generic connector, double row, 02x09, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+["part = Conn_02x09_Odd_Even"],
 ]\);) >>
 >>
 endobj
@@ -849,6 +976,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/7vqtmhdn", "https://www.digikey.co.uk/short/7vqtmhdn"],
 ["MPN = CD74HCT393E"],
 ["Mouser_URI = https://mou.sr/4kVLyag", "https://mou.sr/4kVLyag"],
+["Footprint = Package_DIP:DIP-14_W7.62mm_Socket"],
+["desc = Dual BCD 4-bit counter"],
+["manf# = CD74HCT393E"],
+["part = 74LS393"],
 ]\);) >>
 >>
 endobj
@@ -866,6 +997,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/m41vt2zt", "https://www.digikey.co.uk/short/m41vt2zt"],
 ["MPN = K104K15X7RF53L2 "],
 ["Mouser_URI = https://mou.sr/43YUXGF", "https://mou.sr/43YUXGF"],
+["Footprint = Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = K104K15X7RF53L2"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -881,6 +1016,9 @@ endobj
 ["Footprint = PinSocket_1x03_P2.54mm_Vertical"],
 ["Description = Generic connector, single row, 01x03, script generated"],
 ["KiLib_Generator = connector/pin_header_socket"],
+["Footprint = Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"],
+["desc = Generic connector, single row, 01x03, script generated"],
+["part = Conn_01x03_Socket"],
 ]\);) >>
 >>
 endobj
@@ -897,6 +1035,10 @@ endobj
 ["Description = Unpolarized capacitor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/v77dw2vb", "https://www.digikey.co.uk/short/v77dw2vb"],
 ["MPN = 105BPS100M"],
+["Footprint = Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = 105BPS100M"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -913,6 +1055,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/5h79b53t", "https://www.digikey.co.uk/short/5h79b53t"],
 ["MPN = MFR-25FTE52-33K"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-33K"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -929,6 +1075,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/8r4tbmqt", "https://www.digikey.co.uk/short/8r4tbmqt"],
 ["MPN = MFR-25FTE52-8K2"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-8K2"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -944,6 +1094,9 @@ endobj
 ["Footprint = PinHeader_2x07_P2.54mm_Vertical"],
 ["Description = Generic connector, double row, 02x07, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
 ["KiLib_Generator = connector/pin_header_socket"],
+["Footprint = Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical"],
+["desc = Generic connector, double row, 02x07, odd/even pin numbering scheme \\u0028row 1 odd numbers, row 2 even numbers\\u0029, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+["part = Conn_02x07_Odd_Even"],
 ]\);) >>
 >>
 endobj
@@ -960,6 +1113,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/tzw0n79r", "https://www.digikey.co.uk/short/tzw0n79r"],
 ["MPN = MFR-25FRF52-39K"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FRF52-39K"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -980,6 +1137,10 @@ endobj
 ["Sim.Pins = 1=r0 2=wiper 3=r1"],
 ["MPN = 3386X-1-103TLF"],
 ["Digikey_URI = https://www.digikey.co.uk/short/007f5b23", "https://www.digikey.co.uk/short/007f5b23"],
+["Footprint = electrified:Potentiometer_Bourns_3386X_Horizontal"],
+["desc = Trim-potentiometer"],
+["manf# = 3386X-1-103TLF"],
+["part = R_Potentiometer_Trim"],
 ]\);) >>
 >>
 endobj
@@ -997,6 +1158,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/9qrv3t9n", "https://www.digikey.co.uk/short/9qrv3t9n"],
 ["MPN = ECE-A0JKA470 "],
 ["Mouser_URI = https://mou.sr/3R5E1vb", "https://mou.sr/3R5E1vb"],
+["Footprint = Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"],
+["desc = Polarized capacitor, small symbol"],
+["manf# = ECE-A0JKA470"],
+["part = C_Polarized_Small"],
 ]\);) >>
 >>
 endobj
@@ -1013,6 +1178,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/8r4tbmqt", "https://www.digikey.co.uk/short/8r4tbmqt"],
 ["MPN = MFR-25FTE52-8K2"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-8K2"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -1029,6 +1198,10 @@ endobj
 ["Description = Resistor"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/5h79b53t", "https://www.digikey.co.uk/short/5h79b53t"],
 ["MPN = MFR-25FTE52-33K"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor"],
+["manf# = MFR-25FTE52-33K"],
+["part = R"],
 ]\);) >>
 >>
 endobj
@@ -1045,6 +1218,10 @@ endobj
 ["Description = Resistor"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/bzv9d850", "https://www.digikey.co.uk/short/bzv9d850"],
 ["MPN = MFR-25FTE52-22K"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor"],
+["manf# = MFR-25FTE52-22K"],
+["part = R"],
 ]\);) >>
 >>
 endobj
@@ -1061,6 +1238,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/5h79b53t", "https://www.digikey.co.uk/short/5h79b53t"],
 ["MPN = MFR-25FTE52-33K"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-33K"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -1077,6 +1258,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/5h79b53t", "https://www.digikey.co.uk/short/5h79b53t"],
 ["MPN = MFR-25FTE52-33K"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-33K"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -1093,6 +1278,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/8r4tbmqt", "https://www.digikey.co.uk/short/8r4tbmqt"],
 ["MPN = MFR-25FTE52-8K2"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-8K2"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -1109,6 +1298,10 @@ endobj
 ["Description = Two pin crystal"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/ptq81900", "https://www.digikey.co.uk/short/ptq81900"],
 ["MPN = ATS036B-E"],
+["Footprint = Crystal:Crystal_HC49-U_Vertical"],
+["desc = Two pin crystal"],
+["manf# = ATS036B-E"],
+["part = Crystal"],
 ]\);) >>
 >>
 endobj
@@ -1125,6 +1318,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/8r4tbmqt", "https://www.digikey.co.uk/short/8r4tbmqt"],
 ["MPN = MFR-25FTE52-8K2"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-8K2"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -1141,6 +1338,10 @@ endobj
 ["Description = Unpolarized capacitor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/50mzfpf4", "https://www.digikey.co.uk/short/50mzfpf4"],
 ["MPN = C315C330K2G5TA"],
+["Footprint = Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = C315C330K2G5TA"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -1158,6 +1359,10 @@ endobj
 ["KiLib_Generator = https://www.digikey.co.uk/short/m41vt2zt", "https://www.digikey.co.uk/short/m41vt2zt"],
 ["MPN = K104K15X7RF53L2 "],
 ["Mouser_URI = https://mou.sr/43YUXGF", "https://mou.sr/43YUXGF"],
+["Footprint = Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"],
+["desc = Unpolarized capacitor, small symbol"],
+["manf# = K104K15X7RF53L2"],
+["part = C_Small"],
 ]\);) >>
 >>
 endobj
@@ -1174,6 +1379,10 @@ endobj
 ["Description = Resistor, small symbol"],
 ["KiLib_Generator = https://www.digikey.co.uk/short/8r4tbmqt", "https://www.digikey.co.uk/short/8r4tbmqt"],
 ["MPN = MFR-25FTE52-8K2"],
+["Footprint = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["desc = Resistor, small symbol"],
+["manf# = MFR-25FTE52-8K2"],
+["part = R_Small"],
 ]\);) >>
 >>
 endobj
@@ -1194,6 +1403,10 @@ endobj
 ["Sim.Pins = 1=r0 2=wiper 3=r1"],
 ["MPN = 3386X-1-103TLF"],
 ["Digikey_URI = https://www.digikey.co.uk/short/007f5b23", "https://www.digikey.co.uk/short/007f5b23"],
+["Footprint = electrified:Potentiometer_Bourns_3386X_Horizontal"],
+["desc = Trim-potentiometer"],
+["manf# = 3386X-1-103TLF"],
+["part = R_Potentiometer_Trim"],
 ]\);) >>
 >>
 endobj
@@ -1247,7 +1460,7 @@ endobj
 183 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:2026:07:20:20:48:56)
+/CreationDate (D:2026:07:20:21:42:24)
 /Creator (PCBNEW)
 /Title (rc2014-ym2149-User_Comments.pdf)
 /Author ()
@@ -1806,193 +2019,193 @@ endobj
 xref
 0 186
 0000000000 65535 f 
-0000033085 00000 n 
+0000042361 00000 n 
 0000004613 00000 n 
 0000004634 00000 n 
-0000031953 00000 n 
+0000041229 00000 n 
 0000000015 00000 n 
 0000000241 00000 n 
 0000004656 00000 n 
-0000005173 00000 n 
-0000005690 00000 n 
-0000006207 00000 n 
-0000006724 00000 n 
-0000007108 00000 n 
-0000007492 00000 n 
-0000007876 00000 n 
-0000008261 00000 n 
-0000008861 00000 n 
-0000009460 00000 n 
-0000010046 00000 n 
-0000010491 00000 n 
-0000011030 00000 n 
-0000011400 00000 n 
-0000011765 00000 n 
-0000012167 00000 n 
-0000012665 00000 n 
-0000013247 00000 n 
-0000013755 00000 n 
-0000014387 00000 n 
-0000015078 00000 n 
-0000015421 00000 n 
-0000015877 00000 n 
-0000016318 00000 n 
-0000016774 00000 n 
-0000017230 00000 n 
-0000017676 00000 n 
-0000018124 00000 n 
-0000018565 00000 n 
-0000019021 00000 n 
-0000019535 00000 n 
-0000019980 00000 n 
-0000020418 00000 n 
-0000020872 00000 n 
-0000021405 00000 n 
-0000022017 00000 n 
-0000022534 00000 n 
-0000022933 00000 n 
-0000023378 00000 n 
-0000023834 00000 n 
-0000024290 00000 n 
-0000024823 00000 n 
-0000025278 00000 n 
-0000025860 00000 n 
-0000026368 00000 n 
-0000026822 00000 n 
-0000027264 00000 n 
-0000027705 00000 n 
-0000028161 00000 n 
-0000028616 00000 n 
-0000029072 00000 n 
-0000029493 00000 n 
-0000029948 00000 n 
-0000030396 00000 n 
-0000030915 00000 n 
-0000031371 00000 n 
+0000005330 00000 n 
+0000006004 00000 n 
+0000006678 00000 n 
+0000007352 00000 n 
+0000007895 00000 n 
+0000008438 00000 n 
+0000008981 00000 n 
+0000009525 00000 n 
+0000010267 00000 n 
+0000011008 00000 n 
+0000011724 00000 n 
+0000012296 00000 n 
+0000013153 00000 n 
+0000013671 00000 n 
+0000014158 00000 n 
+0000014766 00000 n 
+0000015478 00000 n 
+0000016219 00000 n 
+0000016885 00000 n 
+0000017636 00000 n 
+0000018511 00000 n 
+0000018921 00000 n 
+0000019540 00000 n 
+0000020124 00000 n 
+0000020743 00000 n 
+0000021362 00000 n 
+0000021961 00000 n 
+0000022565 00000 n 
+0000023149 00000 n 
+0000023768 00000 n 
+0000024439 00000 n 
+0000025038 00000 n 
+0000025618 00000 n 
+0000026235 00000 n 
+0000027086 00000 n 
+0000027829 00000 n 
+0000028503 00000 n 
+0000029075 00000 n 
+0000029674 00000 n 
+0000030293 00000 n 
+0000030912 00000 n 
+0000031763 00000 n 
+0000032381 00000 n 
+0000033122 00000 n 
+0000033788 00000 n 
+0000034405 00000 n 
+0000034990 00000 n 
+0000035574 00000 n 
+0000036193 00000 n 
+0000036811 00000 n 
+0000037430 00000 n 
+0000037971 00000 n 
+0000038589 00000 n 
+0000039193 00000 n 
+0000039869 00000 n 
+0000040488 00000 n 
 0000000260 00000 n 
 0000000674 00000 n 
 0000000878 00000 n 
-0000038432 00000 n 
-0000038326 00000 n 
+0000047708 00000 n 
+0000047602 00000 n 
 0000000925 00000 n 
-0000033310 00000 n 
+0000042586 00000 n 
 0000000989 00000 n 
-0000033921 00000 n 
+0000043197 00000 n 
 0000001053 00000 n 
-0000034007 00000 n 
+0000043283 00000 n 
 0000001117 00000 n 
-0000034092 00000 n 
+0000043368 00000 n 
 0000001181 00000 n 
-0000034975 00000 n 
+0000044251 00000 n 
 0000001245 00000 n 
-0000035062 00000 n 
+0000044338 00000 n 
 0000001309 00000 n 
-0000035148 00000 n 
+0000044424 00000 n 
 0000001373 00000 n 
-0000035234 00000 n 
+0000044510 00000 n 
 0000001437 00000 n 
-0000037643 00000 n 
+0000046919 00000 n 
 0000001501 00000 n 
-0000037729 00000 n 
+0000047005 00000 n 
 0000001565 00000 n 
-0000037814 00000 n 
+0000047090 00000 n 
 0000001629 00000 n 
-0000037987 00000 n 
+0000047263 00000 n 
 0000001693 00000 n 
-0000035320 00000 n 
+0000044596 00000 n 
 0000001757 00000 n 
-0000035406 00000 n 
+0000044682 00000 n 
 0000001821 00000 n 
-0000034712 00000 n 
+0000043988 00000 n 
 0000001885 00000 n 
-0000035582 00000 n 
+0000044858 00000 n 
 0000001948 00000 n 
-0000034533 00000 n 
+0000043809 00000 n 
 0000002013 00000 n 
-0000037464 00000 n 
+0000046740 00000 n 
 0000002078 00000 n 
-0000034178 00000 n 
+0000043454 00000 n 
 0000002143 00000 n 
-0000037900 00000 n 
+0000047176 00000 n 
 0000002208 00000 n 
-0000038074 00000 n 
+0000047350 00000 n 
 0000002273 00000 n 
-0000034624 00000 n 
+0000043900 00000 n 
 0000002338 00000 n 
-0000036209 00000 n 
+0000045485 00000 n 
 0000002403 00000 n 
-0000035670 00000 n 
+0000044946 00000 n 
 0000002468 00000 n 
-0000036119 00000 n 
+0000045395 00000 n 
 0000002533 00000 n 
-0000036748 00000 n 
+0000046024 00000 n 
 0000002598 00000 n 
-0000033472 00000 n 
+0000042748 00000 n 
 0000002663 00000 n 
-0000033562 00000 n 
+0000042838 00000 n 
 0000002728 00000 n 
-0000036659 00000 n 
+0000045935 00000 n 
 0000002793 00000 n 
-0000036389 00000 n 
+0000045665 00000 n 
 0000002858 00000 n 
-0000033742 00000 n 
+0000043018 00000 n 
 0000002923 00000 n 
-0000034355 00000 n 
+0000043631 00000 n 
 0000002988 00000 n 
-0000037107 00000 n 
+0000046383 00000 n 
 0000003053 00000 n 
-0000037196 00000 n 
+0000046472 00000 n 
 0000003118 00000 n 
-0000034887 00000 n 
+0000044163 00000 n 
 0000003183 00000 n 
-0000038162 00000 n 
+0000047438 00000 n 
 0000003248 00000 n 
-0000033832 00000 n 
+0000043108 00000 n 
 0000003313 00000 n 
-0000034799 00000 n 
+0000044075 00000 n 
 0000003378 00000 n 
-0000034444 00000 n 
+0000043720 00000 n 
 0000003443 00000 n 
-0000036479 00000 n 
+0000045755 00000 n 
 0000003508 00000 n 
-0000035759 00000 n 
+0000045035 00000 n 
 0000003573 00000 n 
-0000035493 00000 n 
+0000044769 00000 n 
 0000003638 00000 n 
-0000036838 00000 n 
+0000046114 00000 n 
 0000003703 00000 n 
-0000037554 00000 n 
+0000046830 00000 n 
 0000003768 00000 n 
-0000034266 00000 n 
+0000043542 00000 n 
 0000003833 00000 n 
-0000037285 00000 n 
+0000046561 00000 n 
 0000003898 00000 n 
-0000036928 00000 n 
+0000046204 00000 n 
 0000003963 00000 n 
-0000037018 00000 n 
+0000046294 00000 n 
 0000004028 00000 n 
-0000036299 00000 n 
+0000045575 00000 n 
 0000004093 00000 n 
-0000036569 00000 n 
+0000045845 00000 n 
 0000004158 00000 n 
-0000035939 00000 n 
+0000045215 00000 n 
 0000004223 00000 n 
-0000038251 00000 n 
+0000047527 00000 n 
 0000004288 00000 n 
-0000036029 00000 n 
+0000045305 00000 n 
 0000004353 00000 n 
-0000033652 00000 n 
+0000042928 00000 n 
 0000004418 00000 n 
-0000033383 00000 n 
+0000042659 00000 n 
 0000004483 00000 n 
-0000035849 00000 n 
+0000045125 00000 n 
 0000004548 00000 n 
-0000037374 00000 n 
-0000033145 00000 n 
-0000038538 00000 n 
-0000038623 00000 n 
+0000046650 00000 n 
+0000042421 00000 n 
+0000047814 00000 n 
+0000047899 00000 n 
 trailer
 << /Size 186 /Root 185 0 R /Info 183 0 R >>
 startxref
-38766
+48042
 %%EOF
