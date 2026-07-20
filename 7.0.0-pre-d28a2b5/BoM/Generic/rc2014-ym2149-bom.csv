@@ -1,0 +1,43 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Digikey_URI,MPN,Mouser_URI,Sim.Device,Sim.Type,Sim.Pins
+1,"Unpolarized capacitor, small symbol",C_Small,C12 C13,33pF,C_Disc_D3.8mm_W2.6mm_P2.50mm,2, ,,https://www.digikey.co.uk/short/50mzfpf4,C315C330K2G5TA,,,,
+2,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C4 C5 C10 C14 C15,0.1uF,C_Disc_D3.8mm_W2.6mm_P2.50mm,7, ,,https://www.digikey.co.uk/short/m41vt2zt,K104K15X7RF53L2,https://mou.sr/43YUXGF,,,
+3,"Unpolarized capacitor, small symbol",C_Small,C8 C9,1uF,C_Radial_D5.0mm_H5.0mm_P2.00mm,2, ,,https://www.digikey.co.uk/short/v77dw2vb,105BPS100M,,,,
+4,"Unpolarized capacitor, small symbol",C_Small,C11,10uF,CP_Radial_D4.0mm_P2.00mm,1, ,,https://www.digikey.co.uk/short/723948m3,ESS106M025AB2AA,,,,
+5,"Polarized capacitor, small symbol",C_Polarized_Small,C6 C7,47uF,CP_Radial_D4.0mm_P2.00mm,2, ,,https://www.digikey.co.uk/short/9qrv3t9n,ECE-A0JKA470,https://mou.sr/3R5E1vb,,,
+6,"Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)",AudioJack3_SwitchTR,CON1,SJ1-3523N,Headphone_Jack_3.5mm_5_pin,1, ,,https://www.digikey.co.uk/short/5qzpw41n,SJ1-3523N,,,,
+7,"Generic connector, single row, 01x03, script generated",Conn_01x03_Socket,J1,Conn_01x03_Socket,PinSocket_1x03_P2.54mm_Vertical,1, ,,,,,,,
+8,"Generic connector, double row, 02x09, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x09_Odd_Even,J3 JP6,Conn_02x09_Odd_Even,PinHeader_2x09_P2.54mm_Vertical,2, ,,,,,,,
+9,"Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x07_Odd_Even,JP8,Divider,PinHeader_2x07_P2.54mm_Vertical,1, ,,,,,,,
+10,"Jumper, 2-pole, closed/bridged",Jumper_2_Bridged,JP7,YM 1/2 CLK,PinHeader_1x02_P2.54mm_Vertical,1, ,,,,,,,
+11,"Generic connector, single row, 01x39, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x39,P1,RC2014 BUS,PinHeader_1x39_P2.54mm_Vertical,1, ,,,,,,,
+12,Resistor,R,R1 R2,68R,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2, ,,https://www.digikey.co.uk/short/305qt5br,MFR-25FTE52-68R,,,,
+13,"Resistor, small symbol",R_Small,R8 R9 R10 R11 R12 R13,8k2,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,6, ,,https://www.digikey.co.uk/short/8r4tbmqt,MFR-25FTE52-8K2,,,,
+14,Resistor,R,R3,22k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1, ,,https://www.digikey.co.uk/short/bzv9d850,MFR-25FTE52-22K,,,,
+15,"Resistor, small symbol",R_Small,R14 R15 R16 R17 R18 R19 R22,33k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,7, ,,https://www.digikey.co.uk/short/5h79b53t,MFR-25FTE52-33K,,,,
+16,"Resistor, small symbol",R_Small,R20 R21,39K,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2, ,,https://www.digikey.co.uk/short/tzw0n79r,MFR-25FRF52-39K,,,,
+17,Resistor,R,R4,1M,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1, ,,https://www.digikey.co.uk/short/z8zjpvdp,MFR-25FTE52-1M,,,,
+18,Trim-potentiometer,R_Potentiometer_Trim,RV1 RV2 RV3,10K,Potentiometer_Bourns_3386X_Horizontal,3, ,,https://www.digikey.co.uk/short/007f5b23,3386X-1-103TLF,https://mou.sr/4vLOlqZ,R,POT,1=r0 2=wiper 3=r1
+19,quad 2-input NAND gate,74HCT00,U3,74HCT00,DIP-14_W7.62mm_Socket,1, ,http://www.ti.com/lit/gpn/sn74hct00,https://www.digikey.co.uk/short/3n8mn9t4,CD74HCT00E,https://mou.sr/4v1Zu6V,,,
+20,Decoder 3 to 8 active low outputs,74LS138,U1 U2,74HCT138,DIP-16_W7.62mm_Socket,2, ,http://www.ti.com/lit/gpn/sn74LS138,https://www.digikey.co.uk/short/23hw922m,CD74HCT138E,https://mou.sr/4eAf1Fb,,,
+21,Dual BCD 4-bit counter,74LS393,U8,74HCT393,DIP-14_W7.62mm_Socket,1, ,https://www.ti.com/lit/ds/symlink/sn74ls393.pdf,https://www.digikey.co.uk/short/7vqtmhdn,CD74HCT393E,https://mou.sr/4kVLyag,,,
+22,Hex Inverter,74HC04,U4,74HCU04,DIP-14_W7.62mm_Socket,1, ,https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf,https://www.digikey.co.uk/short/9hwnpw15,CD74HCU04E,https://mou.sr/43o4BCn,,,
+23,"Dual Operational Amplifiers, Rail-to-Rail Input/Output, DIP-8/SOIC-8/TSSOP-8",MCP6022,U6,MCP6022,DIP-8_W7.62mm_Socket,1, ,http://ww1.microchip.com/downloads/en/devicedoc/20001685e.pdf,https://www.digikey.co.uk/short/r30tftfb,MCP6022-I/P,https://mou.sr/3YuzqTg,,,
+24,"Software-Controlled Sound Generator, DIP-40",YM2149,U5,YM2149,DIP-40_W15.24mm_Socket,1, ,http://www.ym2149.com/ym2149.pdf,,,,,,
+25,Two pin crystal,Crystal,Y1,Crystal,Crystal_HC49-U_Vertical,1, ,,https://www.digikey.co.uk/short/ptq81900,ATS036B-E,,,,
+
+
+
+
+
+Project info:
+Schematic:,rc2014-ym2149
+Variant:,default
+Revision:,7.0.0-pre-d28a2b5
+Date:,2026-07-20
+KiCad Version:,10.0.4-10.0.4~ubuntu25.10.1
+Statistics:
+Component Groups:,25
+Component Count:,51 (0 SMD/ 51 THT)
+Fitted Components:,51 (0 SMD/ 51 THT)
+Number of PCBs:,1
+Total Components:,51

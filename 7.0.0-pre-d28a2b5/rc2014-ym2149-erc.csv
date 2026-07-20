@@ -1,0 +1,5 @@
+"Sheet","Severity","Excluded","Type","Description","Details"
+"/ (rc2014-ym2149.kicad_sch)","warning","False","footprint_link_issues","The current configuration does not include the footprint library 'electrified'","@(2.9591 mm, 0.3175 mm): Symbol RV1 [R_Potentiometer_Trim]"
+"/ (rc2014-ym2149.kicad_sch)","warning","False","footprint_link_issues","The current configuration does not include the footprint library 'electrified'","@(2.9591 mm, 0.508 mm): Symbol RV2 [R_Potentiometer_Trim]"
+"/ (rc2014-ym2149.kicad_sch)","warning","False","footprint_link_issues","The current configuration does not include the footprint library 'electrified'","@(2.9591 mm, 0.6985 mm): Symbol RV3 [R_Potentiometer_Trim]"
+"/ (rc2014-ym2149.kicad_sch)","warning","False","footprint_link_issues","The current configuration does not include the footprint library 'electrified'","@(3.9497 mm, 0.5715 mm): Symbol CON1 [AudioJack3_SwitchTR]"
