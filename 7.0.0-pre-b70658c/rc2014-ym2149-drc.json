@@ -1,0 +1,162 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-07-20T19:19:49",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "PTH inside courtyard",
+            "key": "pth_inside_courtyard"
+        },
+        {
+            "description": "NPTH inside courtyard",
+            "key": "npth_inside_courtyard"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.4",
+    "schematic_parity": [],
+    "source": "rc2014-ym2149.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Non-Mirrored text on back layer",
+            "items": [
+                {
+                    "description": "Footprint text of G1 (4)",
+                    "pos": {
+                        "x": 159.205,
+                        "y": 160.075
+                    },
+                    "uuid": "ce76ed2b-f5c2-4c48-bef9-5b5bfa471da5"
+                }
+            ],
+            "severity": "warning",
+            "type": "nonmirrored_text_on_back_layer"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'CC BY-SA https://creativecommons.org' on B.Silkscreen",
+                    "pos": {
+                        "x": 153.616818,
+                        "y": 159.9
+                    },
+                    "uuid": "f37d74c7-ecf2-4387-98e4-8a9d65cb4bd5"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'https://maidavale.org/projects/rc2014-ym2149' on B.Silkscreen",
+                    "pos": {
+                        "x": 130.7,
+                        "y": 153.8
+                    },
+                    "uuid": "3cc8a5a8-0311-46ab-a9e8-a5152cfe065a"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "Text thickness out of range (TrueType font characters with insufficient stroke weight)",
+            "items": [
+                {
+                    "description": "PCB text 'YM/AY sound card' on B.Silkscreen",
+                    "pos": {
+                        "x": 153.616818,
+                        "y": 148.15
+                    },
+                    "uuid": "6440d992-dcd9-4bc9-adbd-f1d66a412eac"
+                }
+            ],
+            "severity": "warning",
+            "type": "text_thickness"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'electrified'",
+            "items": [
+                {
+                    "description": "Footprint CON1",
+                    "pos": {
+                        "x": 157.6,
+                        "y": 126.2
+                    },
+                    "uuid": "090e39b2-244c-41f8-96dc-8ceac8abe66e"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'electrified'",
+            "items": [
+                {
+                    "description": "Footprint RV2",
+                    "pos": {
+                        "x": 114.26,
+                        "y": 118.4
+                    },
+                    "uuid": "104d5791-056a-4c09-8712-468d08d386ea"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'electrified'",
+            "items": [
+                {
+                    "description": "Footprint RV3",
+                    "pos": {
+                        "x": 124.3,
+                        "y": 118.4
+                    },
+                    "uuid": "ad9435ed-b8f8-45c9-aa0b-c7b51c145d4d"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'electrified'",
+            "items": [
+                {
+                    "description": "Footprint RV1",
+                    "pos": {
+                        "x": 104.22,
+                        "y": 118.4
+                    },
+                    "uuid": "fc50d582-bb13-4747-bf17-d281e3c0b245"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        }
+    ]
+}
