@@ -1,0 +1,95 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-07-20T20:44:20",
+    "ignored_checks": [
+        {
+            "description": "Global label only appears once in the schematic",
+            "key": "single_global_label"
+        },
+        {
+            "description": "Four connection points are joined together",
+            "key": "four_way_junction"
+        },
+        {
+            "description": "Assigned footprint doesn't match footprint filters",
+            "key": "footprint_filter"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.4",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/35a9f71f-ba35-47f6-814e-4106ac36c51e",
+            "violations": [
+                {
+                    "description": "The current configuration does not include the footprint library 'electrified'",
+                    "items": [
+                        {
+                            "description": "Symbol RV1 [R_Potentiometer_Trim]",
+                            "pos": {
+                                "x": 2.9591,
+                                "y": 0.3175
+                            },
+                            "uuid": "7dde2288-239c-45ad-94ec-71aa0e81a850"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                },
+                {
+                    "description": "The current configuration does not include the footprint library 'electrified'",
+                    "items": [
+                        {
+                            "description": "Symbol RV2 [R_Potentiometer_Trim]",
+                            "pos": {
+                                "x": 2.9591,
+                                "y": 0.508
+                            },
+                            "uuid": "acb7c26c-cfd3-4cca-86b7-dcae77605795"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                },
+                {
+                    "description": "The current configuration does not include the footprint library 'electrified'",
+                    "items": [
+                        {
+                            "description": "Symbol RV3 [R_Potentiometer_Trim]",
+                            "pos": {
+                                "x": 2.9591,
+                                "y": 0.6985
+                            },
+                            "uuid": "d64e5d93-7253-4a70-82d4-14767879554f"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                },
+                {
+                    "description": "The current configuration does not include the footprint library 'electrified'",
+                    "items": [
+                        {
+                            "description": "Symbol CON1 [AudioJack3_SwitchTR]",
+                            "pos": {
+                                "x": 3.9497,
+                                "y": 0.5715
+                            },
+                            "uuid": "27d96d86-51b5-4df3-b3a1-5545a36e8bb5"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                }
+            ],
+            "file_name": "rc2014-ym2149.kicad_sch"
+        }
+    ],
+    "source": "rc2014-ym2149.kicad_sch"
+}
