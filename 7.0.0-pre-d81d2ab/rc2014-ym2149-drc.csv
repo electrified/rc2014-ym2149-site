@@ -1,0 +1,5 @@
+"Check","Severity","Excluded","Type","Description","Details"
+"Violations","warning","False","nonmirrored_text_on_back_layer","Non-Mirrored text on back layer","@(159.205 mm, 160.075 mm): Footprint text of G1 (4)"
+"Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(153.616818 mm, 159.9 mm): PCB text 'CC BY-SA https://creativecommons.org' on B.Silkscreen"
+"Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(130.7 mm, 153.8 mm): PCB text 'https://maidavale.org/projects/rc2014-ym2149' on B.Silkscreen"
+"Violations","warning","False","text_thickness","Text thickness out of range (TrueType font characters with insufficient stroke weight)","@(153.616818 mm, 148.15 mm): PCB text 'YM/AY sound card' on B.Silkscreen"

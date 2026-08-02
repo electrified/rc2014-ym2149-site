@@ -1,0 +1,5 @@
+_local_|2026-08-02|root|Local changes not committed|False|True
+49c743b|2026-08-01|ed|use git submodel library. remove extraneous stuff not applicable to this version|True|True
+f0358c2|2026-08-01|ed|fix issue with crystal oscillator circuit, bungle with schematic. also make it so when facing the board, turning the knobs to the right moves the sound to the right. additionally move the jack socket closer to the edge of the board|True|True
+ffeb37d|2026-07-22|ed|update component mpn / supplier links|True|False
+b67b2f5|2026-07-20|ed|sort backwards lineout and embed 3d models|True|True
